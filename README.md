@@ -38,11 +38,13 @@ In the above example, three variables with values are defined and a  method is d
 
 **Dictionary:**
 It is used to store date vales in  keys:value pairs.
+
 Eg:
 thisdict ={ “brand”: “Ford”,
                      “model”:”Mustang”, 
                      ”year”:”1990”
 }
+
 Length
 len()
 eg: print(len(thisdict))
