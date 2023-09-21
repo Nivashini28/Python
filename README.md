@@ -5,6 +5,7 @@ It runs on a interpreter system where the codes are executed when it is written.
 
 **Uses:**
 It is used for:
+
 1.Web development.
 2.Software development.
 3.To solve complex mathematics problems.
